@@ -1,0 +1,6 @@
+{
+  "short_name": "OTL",
+  "name": "Online To Local",
+  "start_url": ".",
+  "display": "standalone"
+}
